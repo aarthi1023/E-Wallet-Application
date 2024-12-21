@@ -1,2 +1,2 @@
 # eWallet
-Spring project with redis and kafka where complete back end part has been implemented for an eWallet
+It is an e-wallet Backend application following microservices architecture for user, notification, transaction, and wallet services.
